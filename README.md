@@ -1,0 +1,2 @@
+# NSideView
+The project considers a problem connected with digitization and visualization of three-dimensional real objects, which the user wants to carry over into cyberspace. Creating, editing and visualization of models, which are received by the 2 web cameras –Logitech c920, are the main aim of “NSideView”. By using the devices the user can digitize the surface of real objects which earlier to be processed by 3D software.
